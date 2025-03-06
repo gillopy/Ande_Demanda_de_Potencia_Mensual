@@ -1,0 +1,13 @@
+# Ignorar el entorno virtual de Poetry
+.venv/
+
+# Archivos y carpetas temporales de editor
+*.idea/
+.vscode/
+
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de lock de Poetry (si no deseas que se suban al repositorio)
+poetry.lock
